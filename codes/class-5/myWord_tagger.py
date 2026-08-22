@@ -93,11 +93,11 @@ try:
             for line in file:
                 two_tagger(make_word_ls(line, mode))
                 print()
-        if n == 3:
+        elif n == 3:
             for line in file:
                 three_tagger(make_word_ls(line, mode))
                 print()
-        if n == 4:
+        elif n == 4:
             for line in file:
                 four_tagger(make_word_ls(line, mode))
                 print()
