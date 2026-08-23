@@ -10,7 +10,8 @@
 8. Class 10, 9 Aug 2026: [From Fingerspelling to Sign Language Machine Translation](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/sl.pdf)  
 9. Class 11, 15 Aug 2026: [Grothendieck’s Problem-Solving Process: Three principles for AI Engineering](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/grothendieck.pdf)  
 10. Class 11, 15 Aug 2026: [Four Ways of Thinking](https://github.com/ye-kyaw-thu/AIE-F/blob/main/slide-code/class-09/Four-Ways-of-Thinking-by-Ye-11April2026.pdf)  
-11. Class 13, 22 Aug 2026: [ASR and TTS Modeling and R&D Experience](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/asr_tts.pdf)  
-12. Class 14, 23 Aug 2026: [Senior Talk by Ei Thandar Phyu: Myanmar Spelling Correction and Beyond](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/MMSpellCheck_LUTalk_Aug2026.pdf)
-13. Class 14, 23 Aug 2026: [3 Papers Reading (ASR, TTS, G2P)]()  
+11. Class 13, 22 Aug 2026: [3 Papers Reading (ASR, TTS, G2P)](https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main/slide/3papers)   
+12. Class 13, 22 Aug 2026: [ASR and TTS Modeling and R&D Experience](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/asr_tts.pdf)  
+13. Class 14, 23 Aug 2026: [Senior Talk by Ei Thandar Phyu: Myanmar Spelling Correction and Beyond](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/MMSpellCheck_LUTalk_Aug2026.pdf)  
+14. Class 14, 23 Aug 2026: [1 Papers Reading (Speech Classification)](https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main/slide/1paper)  
  
