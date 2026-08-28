@@ -148,29 +148,41 @@ The TSV file now includes `speaker` and `utt_id` columns for better tracking and
 
 ```
 speaker	utt_id	filename	prompt	timestamp	sample_rate	bit_depth
-student01	student01_20260823_161922	student01_20260823_161922.wav	ငါတို့ မတွေ့ဖြစ်တာတောင် ၅နှစ်ကျော်သွားပြီလားလို့	20260823_161922	16000	16
-student01	student01_20260823_161938	student01_20260823_161938.wav	နေကောင်းလား	20260823_161938	16000	16
-student01	student01_20260823_161900	student01_20260823_161900.wav	အလုပ်အကိုင်ကော အဆင်ပြေရဲ့လား	20260823_161900	16000	16
-student01	student01_20260823_161915	student01_20260823_161915.wav	ထမင်း စားပြီးပြီလား	20260823_161915	16000	16
-student01	student01_20260823_161933	student01_20260823_161933.wav	အလုပ်အကိုင်ကော အဆင်ပြေရဲ့လား	20260823_161933	16000	16
+YeKyawThu	YeKyawThu_20260828_181915	YeKyawThu_20260828_181915.wav	နေကောင်းလား	20260828_181915	16000	16
+YeKyawThu	YeKyawThu_20260828_182001	YeKyawThu_20260828_182001.wav	ထမင်း စားပြီးပြီလား	20260828_182001	16000	16
+YeKyawThu	YeKyawThu_20260828_182033	YeKyawThu_20260828_182033.wav	သတိရလို့ ဖုန်းလှမ်းခေါ်လိုက်တာပါ	20260828_182033	16000	16
+YeKyawThu	YeKyawThu_20260828_182121	YeKyawThu_20260828_182121.wav	ငါတို့ မတွေ့ဖြစ်တာတောင် ၅နှစ်ကျော်သွားပြီလားလို့	20260828_182121	16000	16
+YeKyawThu	YeKyawThu_20260828_182706	YeKyawThu_20260828_182706.wav	အလုပ်အကိုင်ကော အဆင်ပြေရဲ့လား	20260828_182706	16000	16
 ```
 
 ## Example Kaldi Output Files
 
 **wav.scp**
 ```
-student01_20260823_161922 /path/to/rec_1439_14Jun2025/student01_20260823_161922.wav
-student01_20260823_161938 /path/to/rec_1439_14Jun2025/student01_20260823_161938.wav
+YeKyawThu_20260828_181836 C:\Users\yktnl\OneDrive\Documents\AIEF-2\Assignment-4\ye-kyaw-thu\v0.9\YeKyawThu_20260828_181836.wav
+YeKyawThu_20260828_181915 C:\Users\yktnl\OneDrive\Documents\AIEF-2\Assignment-4\ye-kyaw-thu\v0.9\YeKyawThu_20260828_181915.wav
+YeKyawThu_20260828_182001 C:\Users\yktnl\OneDrive\Documents\AIEF-2\Assignment-4\ye-kyaw-thu\v0.9\YeKyawThu_20260828_182001.wav
+YeKyawThu_20260828_182033 C:\Users\yktnl\OneDrive\Documents\AIEF-2\Assignment-4\ye-kyaw-thu\v0.9\YeKyawThu_20260828_182033.wav
+YeKyawThu_20260828_182121 C:\Users\yktnl\OneDrive\Documents\AIEF-2\Assignment-4\ye-kyaw-thu\v0.9\YeKyawThu_20260828_182121.wav
+YeKyawThu_20260828_182706 C:\Users\yktnl\OneDrive\Documents\AIEF-2\Assignment-4\ye-kyaw-thu\v0.9\YeKyawThu_20260828_182706.wav
 ```
 
 **text**
 ```
-student01_20260823_161922 ငါတို့ မတွေ့ဖြစ်တာတောင် ၅နှစ်ကျော်သွားပြီလားလို့
-student01_20260823_161938 နေကောင်းလား
+YeKyawThu_20260828_181836 နေကောင်းလား
+YeKyawThu_20260828_181915 နေကောင်းလား
+YeKyawThu_20260828_182001 ထမင်း စားပြီးပြီလား
+YeKyawThu_20260828_182033 သတိရလို့ ဖုန်းလှမ်းခေါ်လိုက်တာပါ
+YeKyawThu_20260828_182121 ငါတို့ မတွေ့ဖြစ်တာတောင် ၅နှစ်ကျော်သွားပြီလားလို့
+YeKyawThu_20260828_182706 အလုပ်အကိုင်ကော အဆင်ပြေရဲ့လား
 ```
 
 **utt2spk**
 ```
-student01_20260823_161922 student01
-student01_20260823_161938 student01
+YeKyawThu_20260828_181836 YeKyawThu
+YeKyawThu_20260828_181915 YeKyawThu
+YeKyawThu_20260828_182001 YeKyawThu
+YeKyawThu_20260828_182033 YeKyawThu
+YeKyawThu_20260828_182121 YeKyawThu
+YeKyawThu_20260828_182706 YeKyawThu
 ```
