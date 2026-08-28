@@ -3,7 +3,7 @@
 A Python-based tool for recording prompted speech data, specifically designed for ASR/TTS corpus creation with Myanmar language support. This version is optimized for direct integration with Kaldi and ESPNet frameworks.
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/tools/recorder/recorder_UI.png" alt="UI" width="380"/>  
+<img src="https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/assignment/assignment-4/recording_tool/recorder_v0.9.png" alt="UI" width="380"/>  
 </p>  
 <div align="center">
   Fig. UI of recorder  
