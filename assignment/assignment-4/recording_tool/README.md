@@ -64,32 +64,32 @@ python recorder.py -p prompts.txt -m random -c 100
 ### Full Help
 
 ```text
-$ python recorder.py --help
-usage: recorder.py [-h] [-p PROMPTS_FILENAME] [-d SAVE_DIR] [-m {random,ordered,sequential}] [-c PROMPTS_COUNT]
-                   [-l PROMPT_LEN_SOFT_MAX] [-a] [-sr {8000,16000,44100,48000}] [-b {16,32}]
+$ python .\recorder.py --help
+usage: recorder.py [-h] [-p PROMPTS_FILENAME] [-d SAVE_DIR] [-m {random,ordered,sequential}] [-c PROMPTS_COUNT] [-l PROMPT_LEN_SOFT_MAX] [-a]
+                   [-sr {8000,16000,44100,48000}] [-b {16,32}]
 
 Speech Training Recorder (LU Lab., Myanmar) - Record prompted speech
 
 options:
   -h, --help            show this help message and exit
-  -p PROMPTS_FILENAME, --prompts_filename PROMPTS_FILENAME
+  -p, --prompts_filename PROMPTS_FILENAME
                         text file containing prompts (one per line)
-  -d SAVE_DIR, --save_dir SAVE_DIR
+  -d, --save_dir SAVE_DIR
                         custom output directory (default: auto-generated, e.g., rec_1439_28Aug2026)
-  -m {random,ordered,sequential}, --prompt_selection {random,ordered,sequential}
+  -m, --prompt_selection {random,ordered,sequential}
                         prompt selection mode (default: ordered)
                           ordered:    Goes through all prompts top-to-bottom and stops at the end.
-                                    (Ignores -c count limit)
+                                      (Ignores -c count limit)
                           sequential: Takes the first N prompts (-c count) and loops them infinitely.
                           random:     Randomly selects N prompts (-c count) from the file.
-  -c PROMPTS_COUNT, --prompts_count PROMPTS_COUNT
+  -c, --prompts_count PROMPTS_COUNT
                         max prompts to use (default: 300). Used by 'sequential' and 'random' modes.
-  -l PROMPT_LEN_SOFT_MAX, --prompt_len_soft_max PROMPT_LEN_SOFT_MAX
+  -l, --prompt_len_soft_max PROMPT_LEN_SOFT_MAX
                         maximum prompt length in characters (0=no limit)
   -a, --auto_next       auto-advance to next prompt after save
-  -sr {8000,16000,44100,48000}, --sample_rate {8000,16000,44100,48000}
+  -sr, --sample_rate {8000,16000,44100,48000}
                         sample rate in Hz (default: 16000)
-  -b {16,32}, --bit_depth {16,32}
+  -b, --bit_depth {16,32}
                         bit depth (16 or 32, default: 16)
 
 Example usages:
