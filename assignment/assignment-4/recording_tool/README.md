@@ -6,7 +6,7 @@ A Python-based tool for recording prompted speech data, specifically designed fo
 <img src="https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/assignment/assignment-4/recording_tool/recorder_v0.9.png" alt="UI" width="500"/>  
 </p>  
 <div align="center">
-  Fig. UI of recorder  
+  Fig. UI of recorder (Version 0.9)  
 </div> 
 
 <br />  
