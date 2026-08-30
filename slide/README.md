@@ -14,5 +14,6 @@
 12. Class 13, 22 Aug 2026: [ASR and TTS Modeling and R&D Experience](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/asr_tts.pdf)  
 13. Class 14, 23 Aug 2026: [Senior Talk by Ei Thandar Phyu: Myanmar Spelling Correction and Beyond](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/MMSpellCheck_LUTalk_Aug2026.pdf)  
 14. Class 14, 23 Aug 2026: [1 Papers Reading (Speech Classification)](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/1paper/MyanmarSpeechClassificationUsingTransferLearningForImageClassification.pdf)  
-15. Class 15, 29 Aug 2026: [ASR Tutorial with Kaldi](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/kaldi.pdf) 
+15. Class 15, 29 Aug 2026: [ASR Tutorial with Kaldi](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/kaldi.pdf)  
+16. Class 16, 30 Aug 2026: [My Doctoral Thesis Work: Positional Mapping, Positional Gesture and Positional Prediction](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/PM-PG-PP/1-myResearchWorks.pdf)  
  
