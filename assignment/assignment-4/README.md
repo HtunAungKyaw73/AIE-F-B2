@@ -49,4 +49,10 @@
 - Assignment 4 report ကိုလည်း အဖွဲ့ခေါင်းဆောင်ကပဲ ဆရာ့ဆီကို တင်ပေးပါ။
 - အတန်းထဲမှာ presentation (about 20 min) လုပ်ပြီး ဆွေးနွေးတာကို လည်း လုပ်ကြမယ်။
 
+## Deadline
+
+- အသံသွင်းတာက တပတ်အတွင်း အားလုံး ပြီးအောင် လုပ်ကြပါ။
+- Jupyter notebook or experimental report ကိုတော့ Sept 10 မှာတင်ပါ။
+- Group presentation ကိုတော့ Sept 12 (စနေနေ့) မှာ လုပ်ဖို့ စဉ်းစားထားတယ်။
+
 
