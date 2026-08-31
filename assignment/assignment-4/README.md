@@ -1,6 +1,6 @@
 # Assignment 4: Mini ASR Project
 
-## Step 1: Recording
+## Step 1: Recording or Speech Corpus Building
 
 ဆရာ update လုပ်ပေးထားတဲ့ recorder.py (ver. 0.9) ကို အသုံးပြုပြီး အသံသွင်းကြပါ။  
 အောက်ပါအတိုင်း သုံးခါ run ပါ။  
@@ -21,3 +21,8 @@
 </div> 
 
 <br />  
+
+## Recording Guide
+
+ဒီ corpus က စာကြောင်းရေ ၁၅၀ ပဲ ရှိတဲ့ speech corpus အသေးလေးပါ။ ဒါပေမဲ့ လက်တွေ့ မြန်မာစာ ASR ကို အစအဆုံး လုပ်တတ်ဖို့ရည်ရွယ်ထားပါတယ်။ အသံဖမ်းတဲ့အခါမှာ အောက်ပါ အချက်အလက်တွေကို ဂရုစိုက်ပါ။ အတိအကျလိုက်နာပါ။  
+
