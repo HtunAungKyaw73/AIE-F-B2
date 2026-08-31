@@ -12,7 +12,7 @@
 3.  python .\recorder.py -p .\mini-asr-v1.txt -d WinOo_Rec3
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/assignment/assignment-4/speaker_info.png" alt="speaker_info_UI" width="100"/>  
+<img src="https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/assignment/assignment-4/speaker_info.png" alt="speaker_info_UI" width="300"/>  
 </p>  
 <div align="center">
   Fig. Speaker Information UI
