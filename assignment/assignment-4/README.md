@@ -43,4 +43,10 @@
 
 ## Step 3: Building ASR Model
 
+- Kaldi ကိုသုံးပြီး monophone, triphone HMM-GMM မော်ဒယ်တွေဆောက်ကြည့်ပြီး baseline result ထုတ်ပါ။
+- တခြား advanced model (e.g. DNN) ကိုယ်စမ်းချင်တာကို အနည်းဆုံး တစ်မျိုးဆောက်ပြီး baseline ရလဒ်ထက် သာအောင်ကြိုးစားပါ။
+- ASR pipeline တစ်ခုလုံး (ဆိုလိုတာက ဒေတာပြင်ဆင်တာကနေ ---> Evaluation အဆင့်အထိ) ကို Jupyter notebook or Jupyter lab ကို သုံးပြီး လုပ်ပါ။
+- Assignment 4 report ကိုလည်း အဖွဲ့ခေါင်းဆောင်ကပဲ ဆရာ့ဆီကို တင်ပေးပါ။
+- အတန်းထဲမှာ presentation (about 20 min) လုပ်ပြီး ဆွေးနွေးတာကို လည်း လုပ်ကြမယ်။
+
 
