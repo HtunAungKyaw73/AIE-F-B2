@@ -11,6 +11,8 @@
 2.  python .\recorder.py -p .\mini-asr-v1.txt -d WinOo_Rec2
 3.  python .\recorder.py -p .\mini-asr-v1.txt -d WinOo_Rec3
 
+တစ်ခေါက်စီ run တိုင်းမှာအောက်ပါအတိုင်း ပေါ်လာမယ့် Speaker Information dialogue box မှာလည်း ကိုယ့်နာမည် အပြည့်အစုံကို စပေ့စ်မခြားပဲ ရိုက်သွားပါ။   
+
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/assignment/assignment-4/speaker_info.png" alt="speaker_info_UI" width="300"/>  
 </p>  
